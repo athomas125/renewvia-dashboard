@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/athomas125/renewvia-dashboard/static/css/main.203f873b.css",
-    "main.js": "/athomas125/renewvia-dashboard/static/js/main.174773f3.js",
-    "static/media/logo-titled.png": "/athomas125/renewvia-dashboard/static/media/logo-titled.7ffbf6d8d60bbfbeadf4.png",
-    "static/media/Flag_of_Zambia.svg.png": "/athomas125/renewvia-dashboard/static/media/Flag_of_Zambia.svg.c0e75ebf9418d99dae99.png",
-    "static/media/nucleo-icons.eot": "/athomas125/renewvia-dashboard/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
-    "static/media/nucleo-icons.ttf": "/athomas125/renewvia-dashboard/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
-    "static/media/nucleo-icons.woff": "/athomas125/renewvia-dashboard/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
-    "static/media/nucleo-icons.woff2": "/athomas125/renewvia-dashboard/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
-    "static/media/Flag-Chad.webp": "/athomas125/renewvia-dashboard/static/media/Flag-Chad.be301ca12a1d012163e5.webp",
-    "index.html": "/athomas125/renewvia-dashboard/index.html"
+    "main.css": "/renewvia-dashboard/static/css/main.b3f1a329.css",
+    "main.js": "/renewvia-dashboard/static/js/main.3daaec01.js",
+    "static/media/logo-titled.png": "/renewvia-dashboard/static/media/logo-titled.7ffbf6d8d60bbfbeadf4.png",
+    "static/media/Flag_of_Zambia.svg.png": "/renewvia-dashboard/static/media/Flag_of_Zambia.svg.c0e75ebf9418d99dae99.png",
+    "static/media/nucleo-icons.eot": "/renewvia-dashboard/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
+    "static/media/nucleo-icons.ttf": "/renewvia-dashboard/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
+    "static/media/nucleo-icons.woff": "/renewvia-dashboard/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
+    "static/media/nucleo-icons.woff2": "/renewvia-dashboard/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
+    "static/media/Flag-Chad.webp": "/renewvia-dashboard/static/media/Flag-Chad.be301ca12a1d012163e5.webp",
+    "index.html": "/renewvia-dashboard/index.html"
   },
   "entrypoints": [
-    "static/css/main.203f873b.css",
-    "static/js/main.174773f3.js"
+    "static/css/main.b3f1a329.css",
+    "static/js/main.3daaec01.js"
   ]
 }
