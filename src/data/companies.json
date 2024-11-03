@@ -1,0 +1,63 @@
+[
+	{
+		"name": "Main",
+		"logo": "https://static.wixstatic.com/media/f3e4c8_ef5dda097dc0414e813b4c2a8ff453fd~mv2.png/v1/fit/w_1000%2Ch_1000%2Cal_c/file.png",
+		"join_date": "2022-02-01",
+		"address": "0xF9C289f1C0341fb336224958a885163F5017BC16"
+	},
+	{
+		"name": "SteelFab",
+		"logo": "https://www.steelfab-inc.com/wp-content/uploads/2021/07/steelfab_logo.png",
+		"join_date": "2023-08-01",
+		"address": "0x9Db94E89DB9798544494a71C01E3552D6adE79bE",
+		"carbon_goal": 5085
+	},
+	{
+		"name": "Superpower Africa Fund",
+		"logo": "https://www.developmentaid.org/files/organizationLogos/tfe-energy-gmbh-103884.jpg",
+		"join_date": "2023-07-05",
+		"address": "0x504bc5477ba9bea5c4e65396cc43a7d9a7dbda10"
+	},
+	{
+		"name": "Sonic Automotive",
+		"logo": "https://www.iaawg.com/images/default-source/logos/sonic-automotive_logo.png?sfvrsn=69850009_3",
+		"join_date": "2023-08-22",
+		"address": "0xa7F05f1ad0Bd0339E0154451b2e9580Dc0EB8393"
+	},
+	{
+		"name": "Butler Automotive",
+		"logo": "https://www.r-recs.com/images/account-logos/butler.jpg",
+		"join_date": "2023-11-22",
+		"address": "0x38281b14a73E56c59463cE5dB50248ACbf62b45b"
+	},
+	{
+		"name": "ZIZ Energie",
+		"logo": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/ls8fvhusspsbrnlurjyw",
+		"join_date": "2023-12-04",
+		"address": "0x62Df2d3BCdb67AE712bEaa77712F08D339FCD631"
+	},
+	{
+		"name": "Renewvia Solar Africa",
+		"logo": "https://static.wixstatic.com/media/f3e4c8_ef5dda097dc0414e813b4c2a8ff453fd~mv2.png/v1/fit/w_1000%2Ch_1000%2Cal_c/file.png",
+		"join_date": "2022-02-01",
+		"address": "0xf5E6097B172883D55Cf484a31d167EdFd611D261"
+	},
+	{
+		"name": "Renewgen Conservation",
+		"logo": "https://static.wixstatic.com/media/f3e4c8_ef5dda097dc0414e813b4c2a8ff453fd~mv2.png/v1/fit/w_1000%2Ch_1000%2Cal_c/file.png",
+		"join_date": "2024-01-30",
+		"address": "0xd7da9f7F37954eB4E7b8CD14c9FFCC6d476C26Ea"
+	},
+	{
+		"name": "Kudura",
+		"logo": "https://kudura.africa/wp-content/uploads/brizy/imgs/photo_2021-04-28_08-22-33-210x220x0x0x210x220x1619700536.jpg",
+		"join_date": "2024-01-25",
+		"address": "0xcd91dA1A1E59163c712CEdec7D08596D4346Fe8C"
+	},
+	{
+		"name": "EcoX",
+		"logo": "https://cdn.pixabay.com/photo/2014/10/06/10/28/carbon-476168_640.jpg",
+		"join_date": "2024-08-27",
+		"address": "0xEcoX"
+	}
+]
