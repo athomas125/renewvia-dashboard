@@ -4,7 +4,10 @@
   "description": "Renewvia Dashboard",
   "main": "index.js",
   "private": true,
+  "homepage": "https://github.com/athomas125/renewvia-dashboard",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -67,5 +70,8 @@
     "fsevents": "2.3.2",
     "chokidar": "3.5.3",
     "@babel/core": "7.18.6"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
 }
