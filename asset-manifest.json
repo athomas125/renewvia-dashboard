@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/athomas125/renewvia-dashboard/static/css/main.203f873b.css",
-    "main.js": "/athomas125/renewvia-dashboard/static/js/main.7fe73b0d.js",
+    "main.js": "/athomas125/renewvia-dashboard/static/js/main.174773f3.js",
     "static/media/logo-titled.png": "/athomas125/renewvia-dashboard/static/media/logo-titled.7ffbf6d8d60bbfbeadf4.png",
     "static/media/Flag_of_Zambia.svg.png": "/athomas125/renewvia-dashboard/static/media/Flag_of_Zambia.svg.c0e75ebf9418d99dae99.png",
     "static/media/nucleo-icons.eot": "/athomas125/renewvia-dashboard/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
@@ -13,6 +13,6 @@
   },
   "entrypoints": [
     "static/css/main.203f873b.css",
-    "static/js/main.7fe73b0d.js"
+    "static/js/main.174773f3.js"
   ]
 }
