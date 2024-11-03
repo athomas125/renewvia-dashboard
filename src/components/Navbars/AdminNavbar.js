@@ -1,13 +1,7 @@
-
 import React from "react";
 import classnames from "classnames";
 import { useLocation } from "react-router-dom";
-import {
-  Button,
-  NavbarBrand,
-  Navbar,
-  Container,
-} from "reactstrap";
+import { Button, NavbarBrand, Navbar, Container } from "reactstrap";
 
 function AdminNavbar(props) {
   const [collapseOpen, setCollapseOpen] = React.useState(false);
@@ -66,6 +60,7 @@ function AdminNavbar(props) {
                 className="navbar-toggler"
                 type="button"
                 onClick={toggleSidebar}
+                aria-label="Toggle sidebar"
               >
                 <span className="navbar-toggler-bar bar1" />
                 <span className="navbar-toggler-bar bar2" />
@@ -73,9 +68,7 @@ function AdminNavbar(props) {
               </button>
             </div>
             <NavbarBrand href="#pablo" onClick={(e) => e.preventDefault()}>
-              <span className="d-none d-md-block">
-                Renewvia Dashboard
-              </span>
+              <span className="d-none d-md-block">Renewvia Dashboard</span>
               <span className="d-block d-md-none">Renewvia Dashboard</span>
             </NavbarBrand>
           </div>

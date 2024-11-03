@@ -1,7 +1,3 @@
-<!--
-
-
--->
 <!DOCTYPE html>
 <html lang="en" class="perfect-scrollbar-off">
   <head>
@@ -12,20 +8,38 @@
     />
     <meta name="theme-color" content="#000000" />
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <link rel="logo" sizes="76x76" href="./logo-titled.png" />
+    <!-- Preconnect to Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      rel="logo"
-      sizes="76x76"
-      href="./logo-titled.png"
-    />
-    <link
+      rel="preload"
       href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200"
-      rel="stylesheet"
+      as="style"
+      onload="this.onload=null;this.rel='stylesheet'"
     />
+    <noscript>
+      <link
+        href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200"
+        rel="stylesheet"
+      />
+    </noscript>
     <link
+      rel="preload"
       href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css"
-      rel="stylesheet"
+      as="style"
+      onload="this.onload=null;this.rel='stylesheet'"
     />
-    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
+    <noscript>
+      <link
+        href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css"
+        rel="stylesheet"
+      />
+    </noscript>
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"
+      defer
+    ></script>
     <title>Renewvia Dashboard</title>
   </head>
   <body>

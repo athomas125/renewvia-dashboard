@@ -135,7 +135,7 @@ function Sidebar(props) {
       <div className="sidebar-wrapper" ref={sidebar}>
         <div className="user">
           <div className="photo">
-            <img src={logo} alt="logo" />
+            <img src={logo} loading="lazy"  alt="logo" />
           </div>
           <div className="info">
             <a>

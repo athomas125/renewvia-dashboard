@@ -55,7 +55,7 @@ const parseCompaniesData = (companies) => {
     <tr key={index}>
       <td>{index + 1}</td>
       <td>{company.name}</td>
-      <td>{company['join_date']}</td>
+      <td>{company["join_date"]}</td>
     </tr>
   ));
 };
@@ -224,7 +224,7 @@ function Overview() {
                           <td>
                             <div className="flag">
                               <img
-                                alt="..."
+                                alt="us flag"
                                 src={require("assets/img/flags/US.png")}
                               />
                             </div>
@@ -238,7 +238,7 @@ function Overview() {
                           <td>
                             <div className="flag">
                               <img
-                                alt="..."
+                                alt="us flag"
                                 src={require("assets/img/flags/US.png")}
                               />
                             </div>
@@ -252,7 +252,7 @@ function Overview() {
                           <td>
                             <div className="flag">
                               <img
-                                alt="..."
+                                alt="us flag"
                                 src={require("assets/img/flags/US.png")}
                               />
                             </div>
@@ -266,7 +266,7 @@ function Overview() {
                           <td>
                             <div className="flag">
                               <img
-                                alt="..."
+                                alt="us flag"
                                 src={require("assets/img/flags/US.png")}
                               />
                             </div>
@@ -280,7 +280,7 @@ function Overview() {
                           <td>
                             <div className="flag">
                               <img
-                                alt="..."
+                                alt="us flag"
                                 src={require("assets/img/flags/US.png")}
                               />
                             </div>
@@ -294,7 +294,7 @@ function Overview() {
                           <td>
                             <div className="flag">
                               <img
-                                alt="..."
+                                alt="us flag"
                                 src={require("assets/img/flags/US.png")}
                               />
                             </div>
@@ -308,6 +308,7 @@ function Overview() {
                           <td>
                             <div className="flag">
                               <img
+                                alt="Flag of Chad"
                                 width="23"
                                 height="17"
                                 src={require("assets/img/flags/Flag-Chad.webp")}
@@ -323,7 +324,7 @@ function Overview() {
                           <td>
                             <div className="flag">
                               <img
-                                alt="..."
+                                alt="us flag"
                                 src={require("assets/img/flags/US.png")}
                               />
                             </div>
@@ -337,7 +338,7 @@ function Overview() {
                           <td>
                             <div className="flag">
                               <img
-                                alt="..."
+                                alt="Flag of Zambia"
                                 width="23"
                                 height="17"
                                 src={require("assets/img/flags/Flag_of_Zambia.svg.png")}
