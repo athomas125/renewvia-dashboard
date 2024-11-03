@@ -4,7 +4,7 @@
   "description": "Renewvia Dashboard",
   "main": "index.js",
   "private": true,
-  "homepage": "https://github.com/athomas125/renewvia-dashboard",
+  "homepage": "https://athomas125.github.io/renewvia-dashboard/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
